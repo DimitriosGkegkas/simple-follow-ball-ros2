@@ -1,0 +1,60 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/dimitris/ros2_workspace/install/turtlebot3_fake_node/include/**",
+        "/home/dimitris/ros2_workspace/install/turtlebot3_msgs/include/**",
+        "/home/dimitris/ros2_workspace/install/turtlebot3_gazebo/include/**",
+        "/home/dimitris/ros2_workspace/install/map_simulator/include/**",
+        "/home/dimitris/ros2_workspace/install/ecn_usv/include/**",
+        "/home/dimitris/ros2_workspace/install/ecn_2023/include/**",
+        "/home/dimitris/ros2_workspace/install/ecn_2022/include/**",
+        "/home/dimitris/ros2_workspace/install/baxter_simple_sim/include/**",
+        "/home/dimitris/ros2_workspace/install/baxter_bridge/include/**",
+        "/home/dimitris/ros2_workspace/install/baxter_maintenance_msgs/include/**",
+        "/home/dimitris/ros2_workspace/install/baxter_core_msgs/include/**",
+        "/home/dimitris/catkin_ws/devel/include/**",
+        "/home/dimitris/ros1_workspace/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/dimitris/ros1_workspace/src/dpgo/include/**",
+        "/home/dimitris/ros1_workspace/src/dpgo_ros/include/**",
+        "/home/dimitris/ros1_workspace/src/eigen_checks/include/**",
+        "/home/dimitris/ros1_workspace/src/mesh_tools/hdf5_map_io/include/**",
+        "/home/dimitris/ros1_workspace/src/image_undistort/include/**",
+        "/home/dimitris/ros1_workspace/src/kimera_distributed/include/**",
+        "/home/dimitris/ros1_workspace/src/kimera_multi_lcd/include/**",
+        "/home/dimitris/ros1_workspace/src/kimera_pgmo/include/**",
+        "/home/dimitris/catkin_ws/src/Kimera-RPGO/include/**",
+        "/home/dimitris/catkin_ws/src/kimera_rviz_markers/include/**",
+        "/home/dimitris/ros1_workspace/src/kimera_semantics/kimera_semantics/include/**",
+        "/home/dimitris/ros1_workspace/src/kimera_semantics/kimera_semantics_ros/include/**",
+        "/home/dimitris/catkin_ws/src/Kimera-VIO/include/**",
+        "/home/dimitris/catkin_ws/src/Kimera-VIO-ROS/include/**",
+        "/home/dimitris/ros1_workspace/src/mesh_tools/label_manager/include/**",
+        "/home/dimitris/ros1_workspace/src/mesh_tools/mesh_msgs_hdf5/include/**",
+        "/home/dimitris/ros1_workspace/src/mesh_tools/mesh_msgs_transform/include/**",
+        "/home/dimitris/catkin_ws/src/mesh_rviz_plugins/include/**",
+        "/home/dimitris/ros1_workspace/src/minkindr/minkindr/include/**",
+        "/home/dimitris/ros1_workspace/src/minkindr_ros/minkindr_conversions/include/**",
+        "/home/dimitris/ros1_workspace/src/numpy_eigen/include/**",
+        "/home/dimitris/catkin_ws/src/pose_graph_tools/include/**",
+        "/home/dimitris/ros1_workspace/src/pybind11_catkin/include/**",
+        "/home/dimitris/ros1_workspace/src/mesh_tools/rviz_map_plugin/include/**",
+        "/home/dimitris/ros1_workspace/src/voxblox/voxblox/include/**",
+        "/home/dimitris/ros1_workspace/src/voxblox/voxblox_ros/include/**",
+        "/home/dimitris/ros1_workspace/src/voxblox/voxblox_rviz_plugin/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

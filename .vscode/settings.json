@@ -1,0 +1,34 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/dimitris/ros2_workspace/install/turtlebot3_msgs/lib/python3.8/site-packages",
+        "/home/dimitris/ros2_workspace/install/simple_launch/lib/python3.8/site-packages",
+        "/home/dimitris/ros2_workspace/install/map_simulator/lib/python3.8/site-packages",
+        "/home/dimitris/ros2_workspace/install/lab2_mirror_py/lib/python3.8/site-packages",
+        "/home/dimitris/ros2_workspace/install/follow-balls/lib/python3.8/site-packages",
+        "/home/dimitris/ros2_workspace/install/ecn_usv/lib/python3.8/site-packages",
+        "/home/dimitris/ros2_workspace/install/baxter_simple_sim/lib/python3.8/site-packages",
+        "/home/dimitris/ros2_workspace/install/baxter_bridge/lib/python3.8/site-packages",
+        "/home/dimitris/ros2_workspace/install/baxter_maintenance_msgs/lib/python3.8/site-packages",
+        "/home/dimitris/ros2_workspace/install/baxter_core_msgs/lib/python3.8/site-packages",
+        "/opt/ros/galactic/lib/python3.8/site-packages",
+        "/home/dimitris/catkin_ws/devel/lib/python3/dist-packages",
+        "/home/dimitris/ros1_workspace/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/dimitris/ros2_workspace/install/turtlebot3_msgs/lib/python3.8/site-packages",
+        "/home/dimitris/ros2_workspace/install/simple_launch/lib/python3.8/site-packages",
+        "/home/dimitris/ros2_workspace/install/map_simulator/lib/python3.8/site-packages",
+        "/home/dimitris/ros2_workspace/install/lab2_mirror_py/lib/python3.8/site-packages",
+        "/home/dimitris/ros2_workspace/install/follow-balls/lib/python3.8/site-packages",
+        "/home/dimitris/ros2_workspace/install/ecn_usv/lib/python3.8/site-packages",
+        "/home/dimitris/ros2_workspace/install/baxter_simple_sim/lib/python3.8/site-packages",
+        "/home/dimitris/ros2_workspace/install/baxter_bridge/lib/python3.8/site-packages",
+        "/home/dimitris/ros2_workspace/install/baxter_maintenance_msgs/lib/python3.8/site-packages",
+        "/home/dimitris/ros2_workspace/install/baxter_core_msgs/lib/python3.8/site-packages",
+        "/opt/ros/galactic/lib/python3.8/site-packages",
+        "/home/dimitris/catkin_ws/devel/lib/python3/dist-packages",
+        "/home/dimitris/ros1_workspace/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
